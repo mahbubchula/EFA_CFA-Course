@@ -1,3 +1,9 @@
+---
+title: "00 — Measurement Theory: Constructs, Indicators, and Scales"
+parent: "00 · Introduction & Foundations"
+nav_order: 1
+---
+
 # 00 — Measurement Theory: Constructs, Indicators, and Scales
 
 > **Module 00 | Introduction & Foundations**

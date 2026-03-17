@@ -1,3 +1,9 @@
+---
+title: "Theory"
+parent: "01 · Descriptive Statistics"
+nav_order: 1
+---
+
 # 01 — Descriptive Statistics & Data Preparation: Theory & Practice
 
 > **Module 01 | Descriptive Statistics**

@@ -1,3 +1,9 @@
+---
+title: "00 · Introduction & Foundations"
+nav_order: 2
+has_children: true
+---
+
 # Module 00: Introduction & Foundations
 
 ## Overview

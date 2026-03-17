@@ -1,3 +1,9 @@
+---
+title: "CS01: Transit Mode Choice"
+parent: "06 · Applied Case Studies"
+nav_order: 1
+---
+
 # Case Study 01: Urban Transit Mode Choice
 ## A Theory of Planned Behavior (TPB) Application
 

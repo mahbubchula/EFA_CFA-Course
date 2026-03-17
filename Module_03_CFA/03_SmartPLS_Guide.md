@@ -1,3 +1,9 @@
+---
+title: "SmartPLS 4.0 Guide"
+parent: "03 · Confirmatory Factor Analysis"
+nav_order: 1
+---
+
 # 03 — CFA in SmartPLS 4.0: Step-by-Step Guide
 
 > **Module 03 | Confirmatory Factor Analysis**

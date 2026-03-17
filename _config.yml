@@ -1,27 +1,53 @@
-title: "Advanced Statistical Methods for Transportation & Behavioral Research"
-description: "EFA, CFA, CB-SEM, and Regression Analysis — SPSS · R · SmartPLS 4.0"
-author: "Mahbub Hassan"
-email: "mahbub.hassan@ieee.org"
-url: "https://mahbubchula.github.io/EFA_CFA-Course"
+title: "EFA, CFA, CB-SEM & Regression Analysis"
+description: "Advanced Statistical Methods for Transportation & Behavioral Research — SPSS · R · SmartPLS 4.0"
+baseurl: "/EFA_CFA-Course"
+url: "https://mahbubchula.github.io"
 
-theme: minima
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 
+# ── Just the Docs settings ──────────────────────────────────────────
+color_scheme: light          # light or dark
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "© 2025 Mahbub Hassan · Department of Civil Engineering · Chulalongkorn University · <a href='mailto:mahbub.hassan@ieee.org'>mahbub.hassan@ieee.org</a>"
+
+# ── Navigation external links ────────────────────────────────────────
+nav_external_links:
+  - title: "GitHub Repository"
+    url:   "https://github.com/mahbubchula/EFA_CFA-Course"
+    hide_icon: false
+
+# ── Aux links (top-right) ────────────────────────────────────────────
+aux_links:
+  "View on GitHub":
+    - "https://github.com/mahbubchula/EFA_CFA-Course"
+
+aux_links_new_tab: true
+
+# ── Plugins ──────────────────────────────────────────────────────────
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ── Markdown ─────────────────────────────────────────────────────────
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-nav:
-  - title: Home
-    url: /
-  - title: Modules
-    url: /modules/
-  - title: Datasets
-    url: /Datasets/
-  - title: Resources
-    url: /Resources/
+# ── Exclude from build ───────────────────────────────────────────────
+exclude:
+  - "*.Rproj"
+  - ".Rhistory"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"

@@ -1,3 +1,9 @@
+---
+title: "SPSS AMOS Guide"
+parent: "03 · Confirmatory Factor Analysis"
+nav_order: 1
+---
+
 # 03 — CFA in SPSS AMOS: Step-by-Step Guide
 
 > **Module 03 | Confirmatory Factor Analysis**

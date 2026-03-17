@@ -1,3 +1,9 @@
+---
+title: "00 — The Complete Analytical Workflow"
+parent: "00 · Introduction & Foundations"
+nav_order: 1
+---
+
 # 00 — The Complete Analytical Workflow
 
 > **Module 00 | Introduction & Foundations**

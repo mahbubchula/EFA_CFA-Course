@@ -1,3 +1,9 @@
+---
+title: "CS02: Motorcycle Safety"
+parent: "06 · Applied Case Studies"
+nav_order: 1
+---
+
 # Case Study 02: Motorcycle Safety Behavior
 ## Protection Motivation Theory + Ordinal Crash Severity Analysis
 

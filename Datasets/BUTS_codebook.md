@@ -1,3 +1,8 @@
+---
+title: "BUTS Dataset Codebook"
+nav_order: 10
+---
+
 # Bangkok Urban Transportation Survey (BUTS) — Data Codebook
 
 > Dataset for: *Advanced Statistical Methods for Transportation & Behavioral Research*

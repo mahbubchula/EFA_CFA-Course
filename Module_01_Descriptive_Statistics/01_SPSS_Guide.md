@@ -1,3 +1,9 @@
+---
+title: "SPSS Guide"
+parent: "01 · Descriptive Statistics"
+nav_order: 1
+---
+
 # 01 — Descriptive Statistics in SPSS: Step-by-Step Guide
 
 > **Module 01 | Descriptive Statistics**

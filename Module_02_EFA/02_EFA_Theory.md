@@ -1,3 +1,9 @@
+---
+title: "Theory"
+parent: "02 · Exploratory Factor Analysis"
+nav_order: 1
+---
+
 # 02 — Exploratory Factor Analysis: Complete Theory and Guide
 
 > **Module 02 | Exploratory Factor Analysis**

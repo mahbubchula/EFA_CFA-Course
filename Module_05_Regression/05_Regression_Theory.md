@@ -1,3 +1,9 @@
+---
+title: "Theory"
+parent: "05 · Regression Analysis"
+nav_order: 1
+---
+
 # 05 — Regression Analysis: Theory and Applications
 
 > **Module 05 | Regression Analysis**

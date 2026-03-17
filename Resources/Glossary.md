@@ -1,3 +1,8 @@
+---
+title: "Statistical Glossary"
+nav_order: 9
+---
+
 # Statistical Glossary
 
 > **Course: Advanced Statistical Methods for Transportation & Behavioral Research**

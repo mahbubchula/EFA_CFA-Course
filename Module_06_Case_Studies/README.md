@@ -1,3 +1,9 @@
+---
+title: "06 · Applied Case Studies"
+nav_order: 8
+has_children: true
+---
+
 # Module 06: Applied Case Studies
 
 ## Overview

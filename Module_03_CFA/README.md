@@ -1,3 +1,9 @@
+---
+title: "03 · Confirmatory Factor Analysis"
+nav_order: 5
+has_children: true
+---
+
 # Module 03: Confirmatory Factor Analysis (CFA)
 
 ## Overview

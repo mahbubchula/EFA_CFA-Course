@@ -1,3 +1,9 @@
+---
+title: "04 · Covariance-Based SEM"
+nav_order: 6
+has_children: true
+---
+
 # Module 04: Covariance-Based SEM (CB-SEM)
 
 ## Overview

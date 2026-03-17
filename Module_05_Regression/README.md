@@ -1,3 +1,9 @@
+---
+title: "05 · Regression Analysis"
+nav_order: 7
+has_children: true
+---
+
 # Module 05: Regression Analysis
 
 ## Overview

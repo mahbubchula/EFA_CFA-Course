@@ -1,3 +1,9 @@
+---
+title: "Theory"
+parent: "03 · Confirmatory Factor Analysis"
+nav_order: 1
+---
+
 # 03 — Confirmatory Factor Analysis: Complete Theory and Guide
 
 > **Module 03 | Confirmatory Factor Analysis (CFA)**

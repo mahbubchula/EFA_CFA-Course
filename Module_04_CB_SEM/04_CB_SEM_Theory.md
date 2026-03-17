@@ -1,3 +1,9 @@
+---
+title: "Theory"
+parent: "04 · Covariance-Based SEM"
+nav_order: 1
+---
+
 # 04 — Covariance-Based SEM: Theory, Specification, and Application
 
 > **Module 04 | Covariance-Based Structural Equation Modeling**

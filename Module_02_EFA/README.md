@@ -1,3 +1,9 @@
+---
+title: "02 · Exploratory Factor Analysis"
+nav_order: 4
+has_children: true
+---
+
 # Module 02: Exploratory Factor Analysis (EFA)
 
 ## Overview

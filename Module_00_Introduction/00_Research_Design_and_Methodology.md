@@ -1,3 +1,9 @@
+---
+title: "00 — Research Design and Methodology in Transportation & Behavioral Research"
+parent: "00 · Introduction & Foundations"
+nav_order: 1
+---
+
 # 00 — Research Design and Methodology in Transportation & Behavioral Research
 
 > **Module 00 | Introduction & Foundations**

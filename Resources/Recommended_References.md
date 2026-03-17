@@ -1,3 +1,8 @@
+---
+title: "References"
+nav_order: 9
+---
+
 # Recommended References and Resources
 
 > **Course: Advanced Statistical Methods for Transportation & Behavioral Research**

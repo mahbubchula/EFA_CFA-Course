@@ -1,3 +1,8 @@
+---
+title: "Software Installation"
+nav_order: 9
+---
+
 # Software Installation Guide
 
 > **Course: Advanced Statistical Methods for Transportation & Behavioral Research**

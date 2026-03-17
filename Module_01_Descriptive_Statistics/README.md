@@ -1,3 +1,9 @@
+---
+title: "01 · Descriptive Statistics"
+nav_order: 3
+has_children: true
+---
+
 # Module 01: Descriptive Statistics & Data Preparation
 
 ## Overview

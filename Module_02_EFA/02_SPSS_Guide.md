@@ -1,3 +1,9 @@
+---
+title: "SPSS Guide"
+parent: "02 · Exploratory Factor Analysis"
+nav_order: 1
+---
+
 # 02 — Exploratory Factor Analysis in SPSS: Step-by-Step Guide
 
 > **Module 02 | Exploratory Factor Analysis**
