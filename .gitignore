@@ -1,0 +1,34 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# SPSS
+*.sav
+*.spv
+
+# SmartPLS project files (keep .splsm guides)
+*.rsmartpls
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large binary files - use Git LFS or external storage
+*.pdf
+*.pptx
+*.docx
+*.xlsx
+*.xls
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# Python (if any notebooks added later)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

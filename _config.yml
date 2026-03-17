@@ -1,0 +1,27 @@
+title: "Advanced Statistical Methods for Transportation & Behavioral Research"
+description: "EFA, CFA, CB-SEM, and Regression Analysis — SPSS · R · SmartPLS 4.0"
+author: "Mahbub Hassan"
+email: "mahbub.hassan@ieee.org"
+url: "https://mahbubchula.github.io/EFA_CFA-Course"
+
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+nav:
+  - title: Home
+    url: /
+  - title: Modules
+    url: /modules/
+  - title: Datasets
+    url: /Datasets/
+  - title: Resources
+    url: /Resources/
