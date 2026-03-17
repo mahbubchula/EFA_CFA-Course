@@ -2,7 +2,7 @@
 
 > **Module 04 | Covariance-Based Structural Equation Modeling**
 > *Course: Advanced Statistical Methods for Transportation & Behavioral Research*
-> *Instructor: Dr. Mahbub Hassan, Chulalongkorn University*
+> *Instructor: Mahbub Hassan, Chulalongkorn University*
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Module 02 | Exploratory Factor Analysis**
 > *Course: Advanced Statistical Methods for Transportation & Behavioral Research*
-> *Instructor: Dr. Mahbub Hassan, Chulalongkorn University*
+> *Instructor: Mahbub Hassan, Chulalongkorn University*
 
 ---
 
@@ -212,7 +212,7 @@ Factor 3   .421      .448      1.000
 * ======================================================
 * MODULE 02: EXPLORATORY FACTOR ANALYSIS — SPSS SYNTAX
 * Course: EFA, CFA, and CB-SEM in Transportation Research
-* Instructor: Dr. Mahbub Hassan, Chulalongkorn University
+* Instructor: Mahbub Hassan, Chulalongkorn University
 * ======================================================
 
 * Step 1: KMO, Bartlett's, and initial EFA (eigenvalue > 1)

@@ -2,7 +2,7 @@
 # MODULE 01: DESCRIPTIVE STATISTICS & DATA PREPARATION
 # Course: Advanced Statistical Methods for Transportation & Behavioral Research
 #         EFA, CFA, CB-SEM, and Regression Analysis
-# Instructor: Dr. Mahbub Hassan
+# Instructor: Mahbub Hassan
 #             Department of Civil Engineering, Chulalongkorn University
 #             mahbub.hassan@ieee.org
 # ==============================================================================

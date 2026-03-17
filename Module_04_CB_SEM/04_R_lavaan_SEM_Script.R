@@ -2,7 +2,7 @@
 # MODULE 04: COVARIANCE-BASED SEM (CB-SEM) WITH lavaan
 # Course: Advanced Statistical Methods for Transportation & Behavioral Research
 #         EFA, CFA, CB-SEM, and Regression Analysis
-# Instructor: Dr. Mahbub Hassan
+# Instructor: Mahbub Hassan
 #             Department of Civil Engineering, Chulalongkorn University
 #             mahbub.hassan@ieee.org
 # ==============================================================================

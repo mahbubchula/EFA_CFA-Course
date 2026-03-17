@@ -23,7 +23,7 @@ Transportation and behavioral research increasingly relies on latent construct m
 
 | | |
 |---|---|
-| **Name** | Dr. Mahbub Hassan |
+| **Name** | Mahbub Hassan |
 | **Affiliation** | Department of Civil Engineering, Faculty of Engineering, Chulalongkorn University, Bangkok, Thailand |
 | **Email** | mahbub.hassan@ieee.org |
 | **GitHub** | [@mahbubchula](https://github.com/mahbubchula) |

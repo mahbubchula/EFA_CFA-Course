@@ -1,7 +1,7 @@
 # Bangkok Urban Transportation Survey (BUTS) — Data Codebook
 
 > Dataset for: *Advanced Statistical Methods for Transportation & Behavioral Research*
-> Instructor: Dr. Mahbub Hassan, Chulalongkorn University
+> Instructor: Mahbub Hassan, Chulalongkorn University
 
 ---
 
@@ -140,6 +140,6 @@ Module 06: Case studies           → Use full dataset
 
 ## Citation
 
-*Bangkok Urban Transportation Survey (BUTS) is a synthetic dataset created for educational use in the course "Advanced Statistical Methods for Transportation and Behavioral Research" taught by Dr. Mahbub Hassan at Chulalongkorn University.*
+*Bangkok Urban Transportation Survey (BUTS) is a synthetic dataset created for educational use in the course "Advanced Statistical Methods for Transportation and Behavioral Research" taught by Mahbub Hassan at Chulalongkorn University.*
 
 *To generate/regenerate the dataset: Run `generate_BUTS_dataset.R`*

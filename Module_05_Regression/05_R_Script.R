@@ -2,7 +2,7 @@
 # MODULE 05: REGRESSION ANALYSIS
 # Course: Advanced Statistical Methods for Transportation & Behavioral Research
 #         EFA, CFA, CB-SEM, and Regression Analysis
-# Instructor: Dr. Mahbub Hassan
+# Instructor: Mahbub Hassan
 #             Department of Civil Engineering, Chulalongkorn University
 #             mahbub.hassan@ieee.org
 # ==============================================================================

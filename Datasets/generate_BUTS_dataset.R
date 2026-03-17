@@ -2,7 +2,7 @@
 # BANGKOK URBAN TRANSPORTATION SURVEY (BUTS) — SYNTHETIC DATASET GENERATOR
 # ==============================================================================
 # Course: Advanced Statistical Methods for Transportation & Behavioral Research
-# Instructor: Dr. Mahbub Hassan, Chulalongkorn University
+# Instructor: Mahbub Hassan, Chulalongkorn University
 # ==============================================================================
 # This script generates a realistic synthetic dataset for use throughout
 # the EFA, CFA, CB-SEM, and Regression modules.

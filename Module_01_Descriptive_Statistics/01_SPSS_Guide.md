@@ -2,7 +2,7 @@
 
 > **Module 01 | Descriptive Statistics**
 > *Course: Advanced Statistical Methods for Transportation & Behavioral Research*
-> *Instructor: Dr. Mahbub Hassan, Chulalongkorn University*
+> *Instructor: Mahbub Hassan, Chulalongkorn University*
 
 ---
 
@@ -271,7 +271,7 @@ You can run all analyses using SPSS syntax. Save and reuse:
 * ======================================================
 * MODULE 01: DESCRIPTIVE STATISTICS — SPSS SYNTAX
 * Course: EFA, CFA, and CB-SEM in Transportation Research
-* Instructor: Dr. Mahbub Hassan, Chulalongkorn University
+* Instructor: Mahbub Hassan, Chulalongkorn University
 * ======================================================
 
 * Step 1: Import data
