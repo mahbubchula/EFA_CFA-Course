@@ -6,7 +6,7 @@ url: "https://mahbubchula.github.io"
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 # ── Just the Docs settings ──────────────────────────────────────────
-color_scheme: light          # light or dark
+color_scheme: cu-transport   # custom transport theme
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 

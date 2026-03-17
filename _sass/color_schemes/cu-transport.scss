@@ -1,0 +1,31 @@
+// ============================================================
+// CU-TRANSPORT Color Scheme for Just the Docs
+// Course: EFA, CFA, CB-SEM & Regression Analysis
+// Mahbub Hassan · Chulalongkorn University
+// ============================================================
+
+// ── Core brand colors ───────────────────────────────────────
+$cu-navy:       #0d2c6e;
+$cu-blue:       #1565c0;
+$cu-blue-light: #1976d2;
+$cu-teal:       #00796b;
+$cu-orange:     #e65100;
+$cu-purple:     #6a1b9a;
+$cu-red:        #c62828;
+$cu-green:      #2e7d32;
+$cu-sidebar-bg: #f0f4ff;
+$cu-body-bg:    #ffffff;
+
+// ── Just-the-Docs variable overrides ───────────────────────
+$link-color:            $cu-blue;
+$btn-primary-color:     $cu-blue;
+$body-heading-color:    $cu-navy;
+$body-text-color:       #1a2332;
+$nav-child-link-color:  #37474f;
+$sidebar-color:         $cu-sidebar-bg;
+$feedback-color:        #e8eeff;
+$base-button-color:     $cu-sidebar-bg;
+$table-background-color:#fafbff;
+$code-background-color: #f4f6fb;
+$search-background-color: #ffffff;
+$body-background-color: $cu-body-bg;
